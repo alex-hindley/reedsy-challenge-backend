@@ -1,0 +1,97 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  merch_item_id: 2
+  min_volume: 3
+  max_volume: null
+  percentage: 0.3
+
+two:
+  merch_item_id: 1
+  min_volume: 10
+  max_volume: 19
+  percentage: 0.02
+
+three:
+  merch_item_id: 1
+  min_volume: 20
+  max_volume: 29
+  percentage: 0.04
+
+four:
+  merch_item_id: 1
+  min_volume: 30
+  max_volume: 39
+  percentage: 0.06
+
+five:
+  merch_item_id: 1
+  min_volume: 40
+  max_volume: 49
+  percentage: 0.08
+
+six:
+  merch_item_id: 1
+  min_volume: 50
+  max_volume: 59
+  percentage: 0.1
+
+seven:
+  merch_item_id: 1
+  min_volume: 60
+  max_volume: 69
+  percentage: 0.12
+
+eight:
+  merch_item_id: 1
+  min_volume: 70
+  max_volume: 79
+  percentage: 0.14
+
+nine:
+  merch_item_id: 1
+  min_volume: 80
+  max_volume: 89
+  percentage: 0.16
+
+ten:
+  merch_item_id: 1
+  min_volume: 90
+  max_volume: 99
+  percentage: 0.18
+
+eleven:
+  merch_item_id: 1
+  min_volume: 100
+  max_volume: 109
+  percentage: 0.2
+
+twelve:
+  merch_item_id: 1
+  min_volume: 110
+  max_volume: 119
+  percentage: 0.22
+
+thirteen:
+  merch_item_id: 1
+  min_volume: 120
+  max_volume: 129
+  percentage: 0.24
+
+fourteen:
+  merch_item_id: 1
+  min_volume: 130
+  max_volume: 139
+  percentage: 0.26
+
+fifteen:
+  merch_item_id: 1
+  min_volume: 140
+  max_volume: 149
+  percentage: 0.28
+
+sixteen:
+  merch_item_id: 1
+  min_volume: 150
+  max_volume: null
+  percentage: 0.3
